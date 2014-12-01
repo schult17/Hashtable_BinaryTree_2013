@@ -1,4 +1,4 @@
 Hashtable_BinaryTree_2013
 =========================
 
-A hash table implementation with binary trees chaining and dynamic resizing
+A hash table implementation with binary tree chaining and dynamic resizing
